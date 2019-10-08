@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "28e07c35-a32f-418a-bd67-b6d70e86483c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "爱恋表情-1": {
+      "ver": "1.0.3",
+      "uuid": "c8d9880b-8ddd-4b0c-b216-4e09769a871d",
+      "rawTextureUuid": "28e07c35-a32f-418a-bd67-b6d70e86483c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 8.5,
+      "trimX": 31,
+      "trimY": 1,
+      "width": 89,
+      "height": 141,
+      "rawWidth": 150,
+      "rawHeight": 160,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

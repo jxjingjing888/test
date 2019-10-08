@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "323b1a01-08c1-4998-8c91-fd3a2c271f80",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "求赢表情-3": {
+      "ver": "1.0.3",
+      "uuid": "0599e414-f25b-4953-b273-d00ee60cd8d9",
+      "rawTextureUuid": "323b1a01-08c1-4998-8c91-fd3a2c271f80",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": -0.5,
+      "trimX": 14,
+      "trimY": 13,
+      "width": 121,
+      "height": 125,
+      "rawWidth": 150,
+      "rawHeight": 150,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

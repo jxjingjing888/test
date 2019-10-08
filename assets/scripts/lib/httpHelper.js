@@ -1,0 +1,49 @@
+
+//https://www.cnblogs.com/Siegel/p/6767099.html  借鉴了这篇文章内容
+var httpHelper = {
+
+get:function(url, callback){
+    var request = cc.loader.getXMLHttpRequest();
+    console.log("Status: Send Get Request to " + url);
+    request.open("GET", url, true);
+
+    request.onreadystatechange = function () {
+        if (request.readyState == 4 && (request.status >= 200 && request.status <= 207)) {
+            var httpStatus = request.statusText;
+            var response = request.responseText;
+            console.log("Status: Got GET response! " + httpStatus);
+            callback(true, response);
+        }else{
+            callback(false, response);
+        }
+    };
+    request.send();
+},
+
+
+
+post:function(url,params,callback){  
+        var nums = arguments.length  
+        if(nums == 2){  
+            callback = arguments[1];  
+            params = "";  
+        }  
+        var xhr = cc.loader.getXMLHttpRequest();  
+        xhr.open("POST", url);  
+        xhr.setRequestHeader("Content-Type","text/plain;charset=UTF-8");  
+        xhr.onreadystatechange = function () {  
+            if (xhr.readyState == 4 && (xhr.status >= 200 && xhr.status <= 207)) {  
+                err = false;  
+            }else{  
+                err = true;  
+            }  
+            var response = xhr.responseText;  
+            callback(err,response);  
+        };  
+        xhr.send(params);  
+}
+}
+
+
+
+module.exports=httpHelper;

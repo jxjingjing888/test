@@ -1,0 +1,67 @@
+var ui = require('uicreator');
+var netConfig = require('NetConfig');
+var netControl = require('NetControl');
+
+cc.Class({
+    extends: cc.Component,
+
+    properties: {
+        
+        roomType: 'primary',
+    },
+
+	  onLoad () {
+		 
+		 
+	 },
+
+	
+	selectRoom:function(e,data){
+		this.roomType = data;
+	
+	},
+
+
+  onClickCreateRoom: function () {
+        
+		netControl._callBack = this.onMessage.bind(this);
+        netControl.send('createNewRoom',this.roomType);
+		
+
+
+    },
+
+	onMessage:function(msg){	
+		var resData = JSON.parse(msg.data);
+        if (resData.type == 'createNewRoom') {
+           if (resData.status == false) {
+				ui.createScreenMsg(resData.data);
+                return;
+			}
+			 var roomId = resData.data;
+            netConfig.userData.roomId = roomId;
+            cc.director.loadScene('table');
+        }
+		//进入房间初始化用户数据
+
+
+	},
+
+    // onLoad () {},
+
+    start () {
+
+    },
+
+	close:function(){
+		 this.node.destroy();
+	},
+
+	onDestroy:function(){
+	
+      
+
+    },
+
+    // update (dt) {},
+});

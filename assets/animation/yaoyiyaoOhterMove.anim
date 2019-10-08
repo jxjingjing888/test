@@ -1,0 +1,82 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "yaoyiyaoOhterMove",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.15,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            127,
+            33
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0.05,
+          "value": [
+            129,
+            29
+          ],
+          "motionPath": [
+            [
+              166,
+              83,
+              128,
+              61,
+              173,
+              87
+            ],
+            [
+              190,
+              100,
+              183,
+              96,
+              195,
+              103
+            ],
+            [
+              219,
+              114,
+              214,
+              111,
+              237,
+              124
+            ],
+            [
+              262,
+              113,
+              248,
+              108,
+              268,
+              115
+            ],
+            [
+              290,
+              93,
+              286,
+              93,
+              314,
+              89
+            ]
+          ]
+        },
+        {
+          "frame": 0.15,
+          "value": [
+            316,
+            -14
+          ],
+          "motionPath": []
+        }
+      ]
+    }
+  },
+  "events": []
+}
