@@ -9,7 +9,7 @@
   "type": "Texture Packer",
   "subMetas": {
     "10个.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "a8765df1-b70c-4313-95f4-626f759fb811",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -31,7 +31,7 @@
       "subMetas": {}
     },
     "10个选中色.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "e3a815d0-d00f-4ed3-9597-020fb1d0efdb",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -53,7 +53,7 @@
       "subMetas": {}
     },
     "11个.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "0372e530-685e-4ecf-8ad6-d76a7326f4f4",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -75,7 +75,7 @@
       "subMetas": {}
     },
     "11个选中色.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "11d0ee57-07a4-46a8-b50f-ba3a9e605e4c",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -97,7 +97,7 @@
       "subMetas": {}
     },
     "12个.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "a09c2d19-03cf-49f3-8dfa-0dbcfe423e74",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -119,7 +119,7 @@
       "subMetas": {}
     },
     "12个选中色.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "c16786aa-aee9-4d47-9ae2-544a6835841a",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -141,7 +141,7 @@
       "subMetas": {}
     },
     "13个.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "2d7ea276-d9d5-469e-82e4-b229d9d4e23c",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -163,7 +163,7 @@
       "subMetas": {}
     },
     "13个选中色.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "df9ad03a-24e4-46be-bc68-6decc4312d4a",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -185,7 +185,7 @@
       "subMetas": {}
     },
     "14个.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "330cbebe-2e06-4bb1-ba9b-9c50e60d9c7d",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -207,7 +207,7 @@
       "subMetas": {}
     },
     "14个选中色.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "d711b3cc-6f7f-4da2-a0eb-6aca1429fe83",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -229,7 +229,7 @@
       "subMetas": {}
     },
     "1点.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "4f511bff-ee6e-4ad8-a08c-46240f9bd21a",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -251,7 +251,7 @@
       "subMetas": {}
     },
     "1点选中 副本.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "cdf1084f-b740-41de-ac19-eef6b76667fb",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -273,7 +273,7 @@
       "subMetas": {}
     },
     "2个.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "8b07c0fd-6b82-43b1-a047-f0eb9c601f86",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -295,7 +295,7 @@
       "subMetas": {}
     },
     "2个选中色.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "4ef7d441-2c24-4242-b289-748169e902d8",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -317,7 +317,7 @@
       "subMetas": {}
     },
     "2点.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "559413ec-8b37-4e06-882d-50d1184514b9",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -339,7 +339,7 @@
       "subMetas": {}
     },
     "2点选中 副本.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "3a75a709-5036-453b-8e37-a20903a20da9",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -361,7 +361,7 @@
       "subMetas": {}
     },
     "3个.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "067cf35b-f8d8-43c1-a8d6-34ccc26269d7",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -383,7 +383,7 @@
       "subMetas": {}
     },
     "3个选中色.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "bec242e5-7527-4a2e-9a14-eb873e0f2705",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -405,7 +405,7 @@
       "subMetas": {}
     },
     "3点.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "11a0c5fb-dae3-46d2-8c3a-7b28504971ac",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -427,7 +427,7 @@
       "subMetas": {}
     },
     "3点选中 副本.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "0652b83e-d1dc-4d6f-9fe6-5f50e4185939",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -449,7 +449,7 @@
       "subMetas": {}
     },
     "4个.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "83232478-a847-45d9-902f-4ea3ec5fbc0b",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -471,7 +471,7 @@
       "subMetas": {}
     },
     "4个选中色.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "872502a7-54d4-4e6f-9aca-f0e680d87dbc",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -493,7 +493,7 @@
       "subMetas": {}
     },
     "4点.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "42a31281-6377-456b-8ab6-9b8e2caa09cc",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -515,7 +515,7 @@
       "subMetas": {}
     },
     "4点选中.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "9b6a6b57-8852-4ed6-8333-0719bc212000",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -537,7 +537,7 @@
       "subMetas": {}
     },
     "5个.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "b8039b69-9937-4c32-aaec-fd4880ffda20",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -559,7 +559,7 @@
       "subMetas": {}
     },
     "5个选中色.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "58412282-440a-4199-aaf0-9c31f2545e79",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -581,7 +581,7 @@
       "subMetas": {}
     },
     "5点.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "d8caac03-3218-4697-b904-4c27cb69fb4d",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -603,7 +603,7 @@
       "subMetas": {}
     },
     "5点选中 副本.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "32c0b7f6-9516-43a7-bfe4-8cf61394303f",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -625,7 +625,7 @@
       "subMetas": {}
     },
     "6个.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "ebdcf6a2-ea07-46a6-aa52-565343311633",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -647,7 +647,7 @@
       "subMetas": {}
     },
     "6个选中色.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "f96c63a1-26cb-47bf-8ccc-f8d5f5a76676",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -669,7 +669,7 @@
       "subMetas": {}
     },
     "6点.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "1a736917-1b0c-4228-8d74-95a9c04b5bc7",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -691,7 +691,7 @@
       "subMetas": {}
     },
     "6点选中 副本.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "85b653ff-e675-42fd-95b4-d8b9afa1c5e0",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -713,7 +713,7 @@
       "subMetas": {}
     },
     "7个.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "9c3ea9fb-ed4a-4ad0-8e37-69ba81383941",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -735,7 +735,7 @@
       "subMetas": {}
     },
     "7个选中色.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "06134fc6-5b63-4d56-87c8-89d55983e552",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -757,7 +757,7 @@
       "subMetas": {}
     },
     "8个.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "9385b774-bc88-4ec2-85d8-6a1428dc9e3f",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -779,7 +779,7 @@
       "subMetas": {}
     },
     "8个选中色.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "7f1f9f4b-0536-49af-a241-744d1add0f2b",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -801,7 +801,7 @@
       "subMetas": {}
     },
     "9个.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "bc63440f-3e1e-4720-88e6-f49db2d3e1c3",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -823,7 +823,7 @@
       "subMetas": {}
     },
     "9个选中色.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "2f435d44-fd64-421f-bfcb-0738bce70d4f",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -845,7 +845,7 @@
       "subMetas": {}
     },
     "picBoy.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "7b57f612-7a7b-42c9-b328-6de6a48ffd88",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -867,7 +867,7 @@
       "subMetas": {}
     },
     "picGirl.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "b2d1f4fd-fc3c-4fcf-8d4b-f8b3ad8f1082",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -889,7 +889,7 @@
       "subMetas": {}
     },
     "timeOut.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "96ecf5a9-2b12-4b87-b263-9f0fd9ac13ce",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -911,7 +911,7 @@
       "subMetas": {}
     },
     "下局离场.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "15c42e37-e791-4018-b62a-d673d7a19567",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -933,7 +933,7 @@
       "subMetas": {}
     },
     "准备.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "9b58a39e-0783-4313-8622-40976185e536",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -955,7 +955,7 @@
       "subMetas": {}
     },
     "创建房间.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "5ac44b0c-5891-4187-a55b-ff08de76f184",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -977,7 +977,7 @@
       "subMetas": {}
     },
     "初级场.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "92a5b6ae-4a79-40b9-8e26-b17089007518",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -999,7 +999,7 @@
       "subMetas": {}
     },
     "加入房间.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "7a2311cf-7799-456b-b51d-2a087a84d1df",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -1021,7 +1021,7 @@
       "subMetas": {}
     },
     "单独钩选用的钩钩.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "0833ffbe-904e-46c4-b944-f029d394a80c",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -1043,7 +1043,7 @@
       "subMetas": {}
     },
     "叫骰点子气泡框.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "cfcbabe5-7e92-4ddc-9af0-307c668d33a9",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -1065,7 +1065,7 @@
       "subMetas": {}
     },
     "右三角.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "5bb22116-da1e-47c7-9590-c9d419d5f22d",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -1087,7 +1087,7 @@
       "subMetas": {}
     },
     "头像阴影2.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "4c2c835e-0065-4395-80b1-af212146fc44",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -1109,7 +1109,7 @@
       "subMetas": {}
     },
     "小1点.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "e442f130-5f69-4466-9397-805f85555732",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -1131,7 +1131,7 @@
       "subMetas": {}
     },
     "小2点.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "ed7eea4b-57a5-4751-a2a7-8602a260afc6",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -1153,7 +1153,7 @@
       "subMetas": {}
     },
     "小3点.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "f202e7e2-fcdb-44d8-8afe-17a4f12c8ea5",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -1175,7 +1175,7 @@
       "subMetas": {}
     },
     "小4点.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "4a92b8ee-f472-47e4-81f2-f08d6df7e857",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -1197,7 +1197,7 @@
       "subMetas": {}
     },
     "小5点.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "157d3ada-5cb5-4fd3-af45-2e71ea18e68c",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -1219,7 +1219,7 @@
       "subMetas": {}
     },
     "小6点.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "3511e52a-dd91-4ae6-a0b3-0d47a9cf2fc5",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -1241,7 +1241,7 @@
       "subMetas": {}
     },
     "左三角.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "4810c572-53ba-4f79-8810-6e9d0dad0f06",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -1263,7 +1263,7 @@
       "subMetas": {}
     },
     "开按钮.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "5eb66030-035e-435a-b80c-52c20ec72841",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -1285,7 +1285,7 @@
       "subMetas": {}
     },
     "快速开始.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "7649e5b3-439f-4b26-ba9b-d7c96cf809fa",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -1307,7 +1307,7 @@
       "subMetas": {}
     },
     "放骰子的框框1.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "fa4b1c3b-6f52-4b44-a56a-92cdd99a113e",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -1329,7 +1329,7 @@
       "subMetas": {}
     },
     "放骰子的框框2.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "301f37b5-124f-46d7-80fa-623c1ce98040",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -1351,7 +1351,7 @@
       "subMetas": {}
     },
     "斋.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "bf662edd-6b37-480e-a99b-264182a2d9d9",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -1373,7 +1373,7 @@
       "subMetas": {}
     },
     "新钻石图.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "5cf2db54-7b97-47c1-a3d6-802380f9b994",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -1395,7 +1395,7 @@
       "subMetas": {}
     },
     "聊天框.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "d1ed07c2-bcdf-4c3d-b88b-1f75d5961ebf",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -1417,7 +1417,7 @@
       "subMetas": {}
     },
     "聊天框旁表情按钮.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "32dbf578-e0b8-4c72-9171-3a55905f78a7",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -1439,7 +1439,7 @@
       "subMetas": {}
     },
     "要飞掉斋，骰子数至少要翻倍.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "eea11609-d94b-45f9-96f0-43c31649b76a",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -1461,7 +1461,7 @@
       "subMetas": {}
     },
     "返回按键.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "5ef22dfa-2840-4683-9f43-2e0cff0b572d",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -1483,7 +1483,7 @@
       "subMetas": {}
     },
     "进阶场.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "a4bef0b3-4a50-4846-8721-68f02076c421",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -1505,7 +1505,7 @@
       "subMetas": {}
     },
     "问号骰子.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "a61d6d08-1dff-4bc8-b4bd-e9ae85f53022",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -1527,7 +1527,7 @@
       "subMetas": {}
     },
     "飞.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "d2903cff-f728-41fc-bb1a-e12322a6fca3",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -1549,7 +1549,7 @@
       "subMetas": {}
     },
     "骰子1.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "c9da47c7-da04-44e5-b300-a9c6bea39155",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -1571,7 +1571,7 @@
       "subMetas": {}
     },
     "骰子2.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "fb02ff7a-0855-49d8-8168-fa561da0baf6",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -1593,7 +1593,7 @@
       "subMetas": {}
     },
     "骰子3.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "5f2ff94f-d006-413b-9e50-f1fa15785ee6",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -1615,7 +1615,7 @@
       "subMetas": {}
     },
     "骰子4.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "8984c02a-471a-4537-bd3b-4c693671db30",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -1637,7 +1637,7 @@
       "subMetas": {}
     },
     "骰子5.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "44a11ba5-3848-44d2-9ba6-25e661260949",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -1659,7 +1659,7 @@
       "subMetas": {}
     },
     "骰子6.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "8afeaf25-debc-45aa-b08d-37e40c0c8f61",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",
@@ -1681,7 +1681,7 @@
       "subMetas": {}
     },
     "高级场次.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "4e60fcd1-f36f-432d-bed5-89e7d5e7df5d",
       "rawTextureUuid": "c98dc13b-0f61-43c5-870d-9cc5145a4161",
       "trimType": "auto",

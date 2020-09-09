@@ -1,12 +1,18 @@
 {
-  "ver": "2.0.0",
+  "ver": "2.3.4",
   "uuid": "712ee379-4d19-4cbd-9d11-7abaff25ef5c",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 150,
+  "height": 160,
+  "platformSettings": {},
   "subMetas": {
     "爱恋表情-3": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "b4c3449a-03f6-440f-ab0e-1585c988d0a5",
       "rawTextureUuid": "712ee379-4d19-4cbd-9d11-7abaff25ef5c",
       "trimType": "auto",

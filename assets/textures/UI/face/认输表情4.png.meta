@@ -1,12 +1,18 @@
 {
-  "ver": "2.0.0",
+  "ver": "2.3.4",
   "uuid": "c0d1559d-4d65-4a69-b893-ac0c5471511e",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 150,
+  "height": 120,
+  "platformSettings": {},
   "subMetas": {
     "认输表情4": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "cf9cfc3f-92cf-4cda-924d-293e9814fe96",
       "rawTextureUuid": "c0d1559d-4d65-4a69-b893-ac0c5471511e",
       "trimType": "auto",

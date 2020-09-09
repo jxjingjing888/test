@@ -1,12 +1,18 @@
 {
-  "ver": "2.0.0",
+  "ver": "2.3.4",
   "uuid": "0ded634d-ec36-4967-9cab-77c6d567d934",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 150,
+  "height": 150,
+  "platformSettings": {},
   "subMetas": {
     "求赢表情-6": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "00a200da-30b6-4134-a4cd-644af99d9b89",
       "rawTextureUuid": "0ded634d-ec36-4967-9cab-77c6d567d934",
       "trimType": "auto",

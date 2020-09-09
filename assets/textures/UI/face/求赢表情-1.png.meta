@@ -1,12 +1,18 @@
 {
-  "ver": "2.0.0",
+  "ver": "2.3.4",
   "uuid": "6d59f5ea-eea5-4b3c-a57c-bba7eb781d88",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 150,
+  "height": 150,
+  "platformSettings": {},
   "subMetas": {
     "求赢表情-1": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "8c78a47d-6a3b-4369-a37b-0d03cde15c5c",
       "rawTextureUuid": "6d59f5ea-eea5-4b3c-a57c-bba7eb781d88",
       "trimType": "auto",
